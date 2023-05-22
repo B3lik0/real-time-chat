@@ -1,9 +1,9 @@
-# Foobar
+# Inicio
 
 Practiva con VUE 3 + socketio
 
 
-## Usage
+## Uso
 
 ```
 # enter client
