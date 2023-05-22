@@ -1,6 +1,6 @@
 # Inicio
 
-Practiva con VUE 3 + socketio
+Practica con VUE 3 + socketio
 
 
 ## Uso
